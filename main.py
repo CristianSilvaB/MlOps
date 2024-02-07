@@ -13,7 +13,7 @@ app = FastAPI()
 
 
 
-tabla_user = pd.read_parquet("../data/funcion.parquet")
+tabla_user = pd.read_parquet("data/funcion.parquet")
 
 
 
