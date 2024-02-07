@@ -86,7 +86,7 @@ Ejemplo de retorno: {'Valve' : [Negative = 182, Positive = 278]}
 El MVP _tiene_ que ser una API que pueda ser consumida segun los criterios de [API REST o RESTful](https://rockcontent.com/es/blog/api-rest/) desde cualquier dispositivo conectado a internet. Algunas herramientas como por ejemplo, Streamlit, si bien pueden brindar una interfaz de consulta, no cumplen con las condiciones para ser consideradas una API, sin workarounds.
 
 
-**`Deployment`**: Conoces sobre [Render](https://render.com/docs/free#free-web-services) y tienes un [tutorial de Render](https://github.com/HX-FNegrete/render-fastapi-tutorial) que te hace la vida mas fácil :smile: . También podrías usar [Railway](https://railway.app/), o cualquier otro servicio que permita que la API pueda ser consumida desde la web.
+**`Deployment`**: Para el deploy de la API se utilizó [Render](https://render.com/docs/free#free-web-services) conectado a este repositorio. El link para acceder a la API es el siguiente: https://mlops-4yyh.onrender.com/docs
 
 <br/>
 
