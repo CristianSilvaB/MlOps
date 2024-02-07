@@ -1,7 +1,7 @@
 fastapi
 numpy
 pandas
-uvicorn
+gunicorn
 pyarrow
 fastparquet
 scikit-learn
